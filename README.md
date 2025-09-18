@@ -2,7 +2,7 @@
 
 # 🌠 TypeBlast: Defend Keystonia with Your Typing Skills
 
-TypeBlast was created as my Grade 12 Computer Science Final Project for Secondary School. It’s a fast-paced typing game where you defend your planet, Keystonia, from incoming meteors by typing the words on them before they crash. This project reflects my passion for programming, game design, and creating interactive experiences.\
+TypeBlast was created as my Grade 12 Computer Science Final Project for Secondary School. It’s a fast-paced typing game where you defend your planet, Keystonia, from incoming meteors by typing the words on them before they crash. This project reflects my passion for programming, game design, and creating interactive experiences.
 
 ---
 
